@@ -3,11 +3,12 @@
 ## most cases it will be name+"digits"  we try to get name and search the name with 
 ## google site crawler to find the possible maches to our candidate 
 
-### requirments 
+### requirments to run /tech stack 
 1. shell/bash 
 2. node 
 3. puppeteer
 4. python     
+
 
 ## limitations 
 1. usage of non numeric chars in mail address 
