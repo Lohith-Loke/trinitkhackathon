@@ -18,3 +18,8 @@
 # proposals 
 1. using AI to get names from maill 
 2. use of other property like college name/workplace name etc to improve results 
+# test run 
+
+
+https://user-images.githubusercontent.com/85625981/151685775-23f897cb-5614-4263-bd9d-1682b52507e9.mp4
+
